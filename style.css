@@ -1,0 +1,122 @@
+/* main body settings */
+body{
+    font-size: 18pt;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: Roboto, "Franklin Gothic Medium", Tahoma, sans-serif;
+    background-color: lightgrey;
+  
+}
+
+/* navigation links in the navbar */
+
+.nav-link{
+    font-size: 20pt;
+    color: #F24783;
+    margin-top: 50pt;
+    text-shadow: 7px 7px 6px rgb(0, 0, 0);   
+    list-style-type: none;
+   
+}
+
+/* navbar body */
+
+.navbar{
+    background-color: #5A1E82;
+    max-height: 120px;
+    position fixed;
+   
+}
+
+/* Image for logo */
+#logo {
+    max-height: 130px;   
+    margin-bottom: 10px;
+} 
+
+/* text on logo */
+h1 {
+    font-size: 35pt;
+    color: white;
+    text-align: left;
+    font-famiRoboto, "Franklin Gothic Medium", Tahoma, sans-serif;
+    line-height: 50pt;
+    text-shadow: 3px 3px 0px black;
+}
+
+
+/* slideshow button size */
+
+
+.carousel-inner > .carousel-item > img {
+    height: 140vh;
+  }
+
+
+.carousel-control-prev-icon {
+    height: 25%;
+    top: 33%;
+    width: 60px;
+}
+
+.carousel-control-next-icon {
+    height: 25%;
+    top: 33%;
+    width: 60px;
+}
+
+#carouselExampleIndicators {
+   
+} 
+
+/* END SLIDESHOW */l
+
+
+
+/* Product Spotlight */
+
+#halloweenbox.deals {
+
+}
+
+#spotlight-section {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35pt;
+    color: white;
+    text-align: left;
+    font-famiRoboto, "Franklin Gothic Medium", Tahoma, sans-serif;
+    line-height: 50pt;
+    text-shadow: 3px 3px 0px black;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+
+#spotlight.div {
+    text-align: center;
+  
+}
+
+.picture1 {
+    height: 50vh;
+}
+
+.picture2 {
+    height: 50vh;
+}
+
+#spotlight-section {
+    background-color: red!important
+
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
