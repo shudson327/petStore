@@ -52,12 +52,12 @@ h1 {
 /* slideshow button size */
 
 
-.carousel-inner > .carousel-item > img {
+/* .carousel-inner > .carousel-item > img {
 	height: 140vh;
 	position: relative;
 	z-index: 0;
     
-  }
+  } */
 
 
 .carousel-control-prev-icon {
@@ -71,6 +71,57 @@ h1 {
     top: 33%;
     width: 60px;
 }
+
+.carousel-inner .carousel-item {
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	
+	.img1{
+		background-image: url('./img/pumpkin.webp');
+		height: 85vh;
+	}
+	
+	.img2{
+		background-image: url('./img/cat.jpg');
+		height: 85vh;
+	}
+	
+	.img3{
+		background-image: url('./img/bunny.jpg');
+		height: 85vh;
+	}
+	
+	.img4{
+		background-image: url('./img/lizard.jpg');
+		height: 85vh;
+	}
+	
+	.img5{
+		background-image: url('./img/newsnake.jpg');
+		height: 85vh;
+	}
+	
+	.img6{
+		background-image: url('./img/mice.jpeg');
+		height: 85vh;
+	}
+	
+	.img7{
+		background-image: url('./img/ferret.jpg');
+		height: 85vh;
+	}
+	
+	.img8{
+		background-image: url('./img/kittens.jpg');
+		height: 85vh;
+	}
+	
+	.img9{
+		background-image: url('./img/guineapig.jpg');
+		height: 85vh;
+	}
 
 /* END SLIDESHOW */
 
@@ -306,11 +357,11 @@ h3 {
 
 h4 {
     font-size: 35pt;
-    color: white;
+    color: black;
     text-align: left;
     font-family: "Franklin Gothic Medium", Tahoma, sans-serif;
     line-height: 50pt;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 2px 2px 0px white;
     text-align: center;
     margin-bottom: 3rem;
 	margin-top: 5rem;
@@ -374,5 +425,32 @@ h4 {
 
 }
 
+#bird {
+	height: 300px;
+	width: 300px;
+	border-radius: 10%;
 
+}
+#fish {
+	height: 300px;
+	width: 300px;
+	border-radius: 10%;
 
+}
+#rodent {
+	height: 300px;
+	width: 300px;
+	border-radius: 10%;
+
+}
+#horse {
+	height: 300px;
+	width: 300px;
+	border-radius: 10%;
+
+}
+
+.box {
+	text-align: center;
+	color: whitesmoke;
+}
