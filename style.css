@@ -143,14 +143,20 @@ h2 {
 .rounded {
 	border-radius: 20px;
 	border: 4px double black;
+	align-content: flex-start;
+	
+	
 }
 
-.row {
-    display: flex;
+#spotlight.row {
+    display: flex-start;
     flex-wrap: wrap;
-	column-count: 1;
-
+	column-count: 4;
+	display: grid;
+	place-items: center;
   }
+
+
   
 
 .container {
@@ -161,6 +167,8 @@ h2 {
 	text-shadow: .5px .5px 0px black;
 	z-index: 2;
 	position: relative;
+	align-items: center;
+	
 }
 
 
@@ -378,7 +386,9 @@ h4 {
 	float: inline-start;
 	width: 25%;
 	padding: 0 10px;
-  }
+	display: grid;
+	place-items: center;
+}
   
   /* Remove extra left and right margins, due to padding in columns */
   .row {margin: 0 -5px;}
@@ -393,10 +403,11 @@ h4 {
  
   /* Responsive columns - one column layout (vertical) on small screens */
   @media screen and (max-width: 600px) {
-	.column {
+	.column.img {
 	  width: 100%;
 	  display: block;
 	  margin-bottom: 20px;
+      place-items: center;
 	}
   }
 
@@ -453,4 +464,5 @@ h4 {
 .box {
 	text-align: center;
 	color: whitesmoke;
+	max-width: 300px;
 }
