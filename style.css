@@ -143,18 +143,20 @@ h2 {
 .rounded {
 	border-radius: 20px;
 	border: 4px double black;
-	align-content: flex-start;
 	
 	
 }
 
+
+/* 
 #spotlight.row {
     display: flex-start;
     flex-wrap: wrap;
-	column-count: 4;
+	column-count: 1;
 	display: grid;
 	place-items: center;
-  }
+	
+  } */
 
 
   
@@ -169,7 +171,9 @@ h2 {
 	position: relative;
 	align-items: center;
 	
+	
 }
+
 
 
 /* video section */
