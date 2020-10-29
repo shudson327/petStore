@@ -34,8 +34,9 @@ html {
 
 /* Image for logo */
 #logo {
-    max-height: 130px;   
-    margin-bottom: 10px;
+    max-height: 80px;   
+	margin-bottom: 10px;
+	border-radius: 0%;
 } 
 
 /* text on logo */
