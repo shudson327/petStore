@@ -34,7 +34,7 @@ html {
 
 /* Image for logo */
 #logo {
-    max-height: 80px;   
+    max-height: 75px;   
 	margin-bottom: 10px;
 	border-radius: 0%;
 } 
@@ -77,11 +77,13 @@ h1 {
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;
+
 	}
 	
 	.img1{
 		background-image: url('./img/pumpkin.webp');
 		height: 85vh;
+
 	}
 	
 	.img2{
@@ -95,7 +97,7 @@ h1 {
 	}
 	
 	.img4{
-		background-image: url('./img/lizard.jpg');
+		background-image: url('./img/reptile3.jpg');
 		height: 85vh;
 	}
 	
@@ -146,21 +148,7 @@ h2 {
 	border: 4px double black;
 	
 	
-}
-
-
-/* 
-#spotlight.row {
-    display: flex-start;
-    flex-wrap: wrap;
-	column-count: 1;
-	display: grid;
-	place-items: center;
-	
-  } */
-
-
-  
+} 
 
 .container {
     text-align: center;
@@ -172,9 +160,7 @@ h2 {
 	position: relative;
 	align-items: center;
 	
-	
 }
-
 
 
 /* video section */
@@ -374,7 +360,7 @@ h4 {
     text-align: left;
     font-family: "Franklin Gothic Medium", Tahoma, sans-serif;
     line-height: 50pt;
-    text-shadow: 2px 2px 0px white;
+    text-shadow: 1px 1px 0px white;
     text-align: center;
     margin-bottom: 3rem;
 	margin-top: 5rem;
@@ -470,4 +456,6 @@ h4 {
 	text-align: center;
 	color: whitesmoke;
 	max-width: 300px;
+	padding: 10px;
 }
+
