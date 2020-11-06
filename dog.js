@@ -1,14 +1,14 @@
-// cat filter
+// dog filter
 
-function filterCat(){
+function filterDog(){
 
     var postHTML = " "
 
-    let cats = 'Cat'
+    let dog = 'Dog'
 
     let shop = shop.filter(function(arg){
 
-        return arg.pet == cat
+        return arg.pet == dog
     })}
 
 
@@ -124,15 +124,15 @@ document.getElementById('market').innerHTML = postHTML
 
 
 
-function filterCatTwo(){
+function filterDogTwo(){
 
     var postHTML = " "
 
-    let cats = 'CatTwo'
+    let reptile = 'DogTwo'
 
     let shop = shop.filter(function(arg){
 
-        return arg.pet == cat
+        return arg.pet == rabbit
     })}
 
 
@@ -213,6 +213,3 @@ for (var i=0; i < shop.length; i++){
 }
 
 document.getElementById('marketTwo').innerHTML = postHTML
-
-
-

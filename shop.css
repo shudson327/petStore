@@ -27,7 +27,7 @@ html {
 
 .navbar{
     background-color: #5A1E82;
-    max-height: 90px;
+    max-height: 100px;
 	position: relative;
 	z-index: 0;
    
@@ -35,9 +35,10 @@ html {
 
 /* Image for logo */
 #logo {
-    max-height: 75px;   
+  max-height: 75px;   
 	margin-bottom: 10px;
-	border-radius: 0%;
+  border-radius: 0%;
+  margin-bottom: 2rem;
 } 
 
 /* text on logo */
@@ -51,17 +52,16 @@ h1 {
 }
 
 
-.card {
+.card.carousel-item {
     box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
     max-width: 300px;
-    /* margin: 10%; */
     text-align: center;
     font-family: arial;
     display: flex;
-    place-items: inherit;
+    
+   
     
   }
-
   
   .price {
     color: grey;
@@ -88,13 +88,6 @@ h1 {
   }
 
 
-  .grid-item {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    
-}
-
 .card:hover {
   transform: translateY(-0.5%);
   box-shadow: 0rem 2rem 2rem darkslategrey;
@@ -117,27 +110,29 @@ h1 {
     align-items: center;
 }
 
-.carousel-indicators {
-  position: relative;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  display: flex;
-  -ms-flex-pack: center;
-  justify-content: center;
-  padding-left: 0;
-  margin-right: 15%;
-  margin-left: 15%;
-  list-style: none;
+.container2 {
+  padding-left: 5%;
+  padding-right: 5%;
+
 }
 
-/* .btn-floating{
-  position: relative;
-  align-items: center;
-} */
+#market.carousel-inner{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 40px;
+  align-items: stretch;
+  /* padding-left: 3%; */
 
+}
 
+#marketTwo.carousel-inner{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 40px;
+  align-items: stretch;
+  /* padding-left: 3%; */
+
+}
 
 h2 {
   font-size: 24pt;
@@ -156,11 +151,13 @@ h3 {
   margin-top: 1rem;
 }
 
-.toy1 {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 2rem;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .toy2 {
