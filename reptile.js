@@ -15,95 +15,95 @@ function filterReptile(){
    
 var shop = [{
      
-title: 'Turbo Cat Scratcher',
-image: 'img/toy1.jpg',
+title: 'Feeding dish',
+image: 'img/reptileacc1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "The functional yet stylish Exo Terra Feeding Dish has a natural look and fits easily into almost any terrarium. It’s made from food-grade resin."
 
 },
 {
-title: 'Floppy Fish Toy',
-image: 'img/toy2.jpg',
+title: 'Reptile Habitat Half Log',
+image: 'img/reptileacc2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "Habitat half log adds much needed privacy to any reptiles terrarium. A perfect way to help reptiles feel safe and secure, and reduce stress."
 
 },
 {
      
-title: 'Leaps & Bounce Ball',
-image: 'img/toy3.jpg',
+title: 'Reptile Heat bulb',
+image: 'img/reptileacc3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "The light bulb can provide accurately controlled energy radiation for heating and sterilization, which has a health effect on small animals."
     
 },
 {
      
-title: 'Feather Cat Wand',
-image: 'img/toy4.jpg',
-price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+title: 'All Reptile Cage',
+image: 'img/reptileacc4.jpg',
+price: '5000',
+description: "Our Vision Cage Model 734 makes for an excellent living environment for snakes, reptiles and lizards. Designed and manufactured by our team of experts."
         
 },
 {
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Feeding dish',
+    image: 'img/reptileacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "The functional yet stylish Exo Terra Feeding Dish has a natural look and fits easily into almost any terrarium. It’s made from food-grade resin."
     
     },
     {
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Reptile Habitat Half Log',
+    image: 'img/reptileacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Habitat half log adds much needed privacy to any reptiles terrarium. A perfect way to help reptiles feel safe and secure, and reduce stress."
     
     },
     {
          
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Reptile Heat bulb',
+    image: 'img/reptileacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "The light bulb can provide accurately controlled energy radiation for heating and sterilization, which has a health effect on small animals."
         
     },
     {
          
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
-    price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    title: 'All Reptile Cage',
+    image: 'img/reptileacc4.jpg',
+    price: '5000',
+    description: "Our Vision Cage Model 734 makes for an excellent living environment for snakes, reptiles and lizards. Designed and manufactured by our team of experts."
             
     },
     {
            
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Feeding dish',
+    image: 'img/reptileacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "The functional yet stylish Exo Terra Feeding Dish has a natural look and fits easily into almost any terrarium. It’s made from food-grade resin."
             
     },
     {
 
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Reptile Habitat Half Log',
+    image: 'img/reptileacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Habitat half log adds much needed privacy to any reptiles terrarium. A perfect way to help reptiles feel safe and secure, and reduce stress."
             
     },
     {
                  
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Reptile Heat bulb',
+    image: 'img/reptileacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "The light bulb can provide accurately controlled energy radiation for heating and sterilization, which has a health effect on small animals."
                 
     },
     {
                  
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
-    price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    title: 'All Reptile Cage',
+    image: 'img/reptileacc4.jpg',
+    price: '5000',
+    description: "Our Vision Cage Model 734 makes for an excellent living environment for snakes, reptiles and lizards. Designed and manufactured by our team of experts."
                     
     }
     ]
@@ -139,63 +139,63 @@ function filterReptileTwo(){
    
 var shop = [{
      
-title: 'Turbo Cat Scratcher',
-image: 'img/toy1.jpg',
+title: 'Munchies Mealworms',
+image: 'img/reptilefood1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "Nutritious Zilla® Reptile Munchies contain dehydrated ingredients that are quick and convenient with no refrigeration required! All natural ingredients."
 
 },
 {
-title: 'Floppy Fish Toy',
-image: 'img/toy2.jpg',
+title: 'Muchies Omnivore',
+image: 'img/reptilefood2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
-
+description: "Supplies beneficial vitamins and nutrients from a variety of natural ingredients. Nutritious, dehydrated ingredients that are quick and convenient!"
+ 
 },
 {
      
-title: 'Leaps & Bounce Ball',
-image: 'img/toy3.jpg',
+title: 'Buffet Blend treats',
+image: 'img/reptilefood3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "This unique blend ensures your pet will receive the proper balance of essential protein, fat vitamins, and minerals. Adult formula, 2.9 oz."
     
 },
 {
      
-title: 'Feather Cat Wand',
-image: 'img/toy4.jpg',
-price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+title: 'Tutle Delite',
+image: 'img/reptilefood4.jpg',
+price: '5000',
+description: "Made with 100% dried whole shrimp, Wardley Turtle Delite Turtle Food is a wonderful addition to any complete turtle diet. Made in the USA!"
         
 },
 {
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Munchies Mealworms',
+    image: 'img/reptilefood1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "Nutritious Zilla® Reptile Munchies contain dehydrated ingredients that are quick and convenient with no refrigeration required! All natural ingredients."
     
     },
     {
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Munchies Omnivore',
+    image: 'img/reptilefood2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Supplies beneficial vitamins and nutrients from a variety of natural ingredients. Nutritious, dehydrated ingredients that are quick and convenient!"
     
     },
     {
          
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Buffet Blend Treats',
+    image: 'img/reptilefood3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "This unique blend ensures your pet will receive the proper balance of essential protein, fat vitamins, and minerals. Adult formula, 2.9 oz."
         
     },
     {
          
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
-    price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    title: 'Turtle Delite',
+    image: 'img/reptilefood4.jpg',
+    price: '5000',
+    description: "Made with 100% dried whole shrimp, Wardley Turtle Delite Turtle Food is a wonderful addition to any complete turtle diet. Made in the USA!"
             
     }
     ]

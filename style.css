@@ -18,9 +18,9 @@ html {
     color: #F24783;
     text-shadow: 7px 7px 6px rgb(0, 0, 0);   
     list-style-type: none;
-    
-   
 }
+
+
 
 /* navbar body */
 
@@ -83,6 +83,7 @@ h1 {
 	.img1{
 		background-image: url('./img/pumpkin.webp');
 		height: 85vh;
+		
 
 	}
 	
@@ -147,8 +148,13 @@ h2 {
 	border-radius: 20px;
 	border: 4px double black;
 	
-	
 } 
+
+.rounded:hover {
+    opacity: 90%;
+    transform: translateY(-0.6%);
+    box-shadow: 0 4rem 12rem black;
+  }
 
 .container {
     text-align: center;

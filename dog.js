@@ -15,93 +15,93 @@ function filterDog(){
    
 var shop = [{
      
-title: 'Turbo Cat Scratcher',
-image: 'img/toy1.jpg',
+title: 'Babble Ball',
+image: 'img/dogtoy1.jpg',
 price: '200',
 description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
 
 },
 {
-title: 'Floppy Fish Toy',
-image: 'img/toy2.jpg',
+title: 'Kong Fetch Ball',
+image: 'img/dogtoy2.jpg',
 price: '7,000',
 description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
 
 },
 {
      
-title: 'Leaps & Bounce Ball',
-image: 'img/toy3.jpg',
+title: 'Piggy Chew Toy',
+image: 'img/dogtoy3.jpg',
 price: '50',
 description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
     
 },
 {
      
-title: 'Feather Cat Wand',
-image: 'img/toy4.jpg',
+title: 'Tug-Of-War Rope',
+image: 'img/dogtoy4.jpg',
 price: '500',
 description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
         
 },
 {
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Babble Ball',
+    image: 'img/dogtoy1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
     
     },
     {
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Kong Fetch Ball',
+    image: 'img/dogtoy2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
     
     },
     {
          
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Piggy Chew Toy',
+    image: 'img/dogtoy3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
         
     },
     {
          
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
+    title: 'Tug-Of-War Rope',
+    image: 'img/dogtoy4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
             
     },
     {
            
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Babble Ball',
+    image: 'img/dogtoy1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
             
     },
     {
 
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Kong Fetch Ball',
+    image: 'img/dogtoy2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
             
     },
     {
                  
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Piggy Chew Toy',
+    image: 'img/dogtoy3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
                 
     },
     {
                  
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
+    title: 'Tug-Of-War Rope',
+    image: 'img/dogtoy4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
                     
@@ -139,61 +139,61 @@ function filterDogTwo(){
    
 var shop = [{
      
-title: 'Turbo Cat Scratcher',
-image: 'img/toy1.jpg',
+title: 'Milk Bone Treats',
+image: 'img/dogfood1.jpg',
 price: '200',
 description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
 
 },
 {
-title: 'Floppy Fish Toy',
-image: 'img/toy2.jpg',
+title: 'Beneful Original Food',
+image: 'img/dogfood2.jpg',
 price: '7,000',
 description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
 
 },
 {
      
-title: 'Leaps & Bounce Ball',
-image: 'img/toy3.jpg',
+title: 'Purina One Chicken & Rice',
+image: 'img/dogfood3.jpg',
 price: '50',
 description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
     
 },
 {
      
-title: 'Feather Cat Wand',
-image: 'img/toy4.jpg',
+title: 'Frosty Paw Treats',
+image: 'img/dogfood4.jpg',
 price: '500',
 description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
         
 },
 {
-    title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    title: 'Milk Bone Treats',
+    image: 'img/dogfood1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
     
     },
     {
-    title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    title: 'Beneful Original Food',
+    image: 'img/dogfood2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
     
     },
     {
          
-    title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    title: 'Purina One Chicken & Rice',
+    image: 'img/dogfood3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
         
     },
     {
          
-    title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
+    title: 'Frosty Paw Treats',
+    image: 'img/dogfood4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
             

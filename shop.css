@@ -39,6 +39,7 @@ html {
 	margin-bottom: 10px;
   border-radius: 0%;
   margin-bottom: 2rem;
+  
 } 
 
 /* text on logo */
@@ -58,9 +59,9 @@ h1 {
     text-align: center;
     font-family: arial;
     display: flex;
+    opacity: 100%;
     
    
-    
   }
   
   .price {
@@ -78,11 +79,13 @@ h1 {
     cursor: pointer;
     width: 100%;
     font-size: 18px;
+    bottom: 0;
+ 
     
   }
   
   .card button:hover {
-    opacity: 0.9;
+    opacity: 50%;
     transform: translateY(-0.5%);
     box-shadow: 0 4rem 8rem darkslategrey;
   }
@@ -135,7 +138,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24pt;
+  font-size: 30pt;
   color: black;
   text-align: left;
   font-family: "Franklin Gothic Medium", Tahoma, sans-serif;
