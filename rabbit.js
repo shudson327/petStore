@@ -128,7 +128,7 @@ function filterRabbitTwo(){
 
     var postHTML = " "
 
-    let reptile = 'RabbitTwo'
+    let rabbit = 'RabbitTwo'
 
     let shop = shop.filter(function(arg){
 

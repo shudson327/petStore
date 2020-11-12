@@ -1,14 +1,14 @@
-// dog filter
+// rodent filter
 
-function filterDog(){
+function filterRodent(){
 
     var postHTML = " "
 
-    let dog = 'Dog'
+    let rodent = 'Rodent'
 
     let shop = shop.filter(function(arg){
 
-        return arg.pet == dog
+        return arg.pet == rodent
     })}
 
 
@@ -16,14 +16,14 @@ function filterDog(){
 var shop = [{
      
 title: 'Babble Ball',
-image: 'img/dogtoy1.jpg',
+image: 'img/rodentacc1.jpg',
 price: '200',
 description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
 
 },
 {
 title: 'Kong Fetch Ball',
-image: 'img/dogtoy2.jpg',
+image: 'img/rodentacc2.jpg',
 price: '7,000',
 description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
 
@@ -31,7 +31,7 @@ description: "Features a realistic, 11″ fish with an improved built-in motion 
 {
      
 title: 'Piggy Chew Toy',
-image: 'img/dogtoy3.jpg',
+image: 'img/rodentacc3.jpg',
 price: '50',
 description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
     
@@ -39,21 +39,21 @@ description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat 
 {
      
 title: 'Tug-Of-War Rope',
-image: 'img/dogtoy4.jpg',
+image: 'img/rodentacc4.jpg',
 price: '500',
 description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
         
 },
 {
     title: 'Babble Ball',
-    image: 'img/dogtoy1.jpg',
+    image: 'img/rodentacc1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
     
     },
     {
     title: 'Kong Fetch Ball',
-    image: 'img/dogtoy2.jpg',
+    image: 'img/rodentacc2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
     
@@ -61,7 +61,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Piggy Chew Toy',
-    image: 'img/dogtoy3.jpg',
+    image: 'img/rodentacc3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
         
@@ -69,7 +69,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Tug-Of-War Rope',
-    image: 'img/dogtoy4.jpg',
+    image: 'img/rodentacc4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
             
@@ -77,7 +77,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
            
     title: 'Babble Ball',
-    image: 'img/dogtoy1.jpg',
+    image: 'img/rodentacc1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
             
@@ -85,7 +85,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
 
     title: 'Kong Fetch Ball',
-    image: 'img/dogtoy2.jpg',
+    image: 'img/rodentacc2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
             
@@ -93,7 +93,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
                  
     title: 'Piggy Chew Toy',
-    image: 'img/dogtoy3.jpg',
+    image: 'img/rodentacc3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
                 
@@ -101,7 +101,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
                  
     title: 'Tug-Of-War Rope',
-    image: 'img/dogtoy4.jpg',
+    image: 'img/rodentacc4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
                     
@@ -124,15 +124,15 @@ document.getElementById('market').innerHTML = postHTML
 
 
 
-function filterDogTwo(){
+function filterRodentTwo(){
 
     var postHTML = " "
 
-    let dog = 'DogTwo'
+    let rodent = 'RodentTwo'
 
     let shop = shop.filter(function(arg){
 
-        return arg.pet == dog
+        return arg.pet == rodent
     })}
 
 
@@ -140,14 +140,14 @@ function filterDogTwo(){
 var shop = [{
      
 title: 'Milk Bone Treats',
-image: 'img/dogfood1.jpg',
+image: 'img/rodentfood1.jpg',
 price: '200',
 description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
 
 },
 {
 title: 'Beneful Original Food',
-image: 'img/dogfood2.jpg',
+image: 'img/rodentfood2.jpg',
 price: '7,000',
 description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
 
@@ -155,7 +155,7 @@ description: "Features a realistic, 11″ fish with an improved built-in motion 
 {
      
 title: 'Purina One Chicken & Rice',
-image: 'img/dogfood3.jpg',
+image: 'img/rodentfood3.jpg',
 price: '50',
 description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
     
@@ -163,21 +163,21 @@ description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat 
 {
      
 title: 'Frosty Paw Treats',
-image: 'img/dogfood4.jpg',
+image: 'img/rodentfood4.jpg',
 price: '500',
 description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
         
 },
 {
     title: 'Milk Bone Treats',
-    image: 'img/dogfood1.jpg',
+    image: 'img/rodentfood1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
     
     },
     {
     title: 'Beneful Original Food',
-    image: 'img/dogfood2.jpg',
+    image: 'img/rodentfood2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
     
@@ -185,7 +185,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Purina One Chicken & Rice',
-    image: 'img/dogfood3.jpg',
+    image: 'img/rodentfood3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
         
@@ -193,7 +193,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Frosty Paw Treats',
-    image: 'img/dogfood4.jpg',
+    image: 'img/rodentfood4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
             
