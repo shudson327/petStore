@@ -140,14 +140,14 @@ function filterCatTwo(){
 var shop = [{
      
 title: 'Turbo Cat Scratcher',
-image: 'img/toy1.jpg',
+image: 'img/catfood1.jpg',
 price: '200',
 description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
 
 },
 {
 title: 'Floppy Fish Toy',
-image: 'img/toy2.jpg',
+image: 'img/catfood2.jpg',
 price: '7,000',
 description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
 
@@ -155,7 +155,7 @@ description: "Features a realistic, 11″ fish with an improved built-in motion 
 {
      
 title: 'Leaps & Bounce Ball',
-image: 'img/toy3.jpg',
+image: 'img/catfood3.jpg',
 price: '50',
 description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
     
@@ -163,21 +163,21 @@ description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat 
 {
      
 title: 'Feather Cat Wand',
-image: 'img/toy4.jpg',
+image: 'img/catfood4.jpg',
 price: '500',
 description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
         
 },
 {
     title: 'Turbo Cat Scratcher',
-    image: 'img/toy1.jpg',
+    image: 'img/catfood1.jpg',
     price: '200',
     description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
     
     },
     {
     title: 'Floppy Fish Toy',
-    image: 'img/toy2.jpg',
+    image: 'img/catfood2.jpg',
     price: '7,000',
     description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
     
@@ -185,7 +185,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Leaps & Bounce Ball',
-    image: 'img/toy3.jpg',
+    image: 'img/catfood3.jpg',
     price: '50',
     description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
         
@@ -193,7 +193,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     {
          
     title: 'Feather Cat Wand',
-    image: 'img/toy4.jpg',
+    image: 'img/catfood4.jpg',
     price: '500',
     description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
             

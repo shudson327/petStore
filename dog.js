@@ -15,10 +15,10 @@ function filterDog(){
    
 var shop = [{
      
-title: 'Babble Ball',
+title: 'Cactus Chew',
 image: 'img/dogtoy1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "This plush cactus is densely packed with fluffy stuffing and interactive elements that are perfect for playtime."
 
 },
 {
@@ -45,10 +45,10 @@ description: "This fishing rod comes with four interchangeable lures. They are l
         
 },
 {
-    title: 'Babble Ball',
+    title: 'Cactus Chew',
     image: 'img/dogtoy1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "This plush cactus is densely packed with fluffy stuffing and interactive elements that are perfect for playtime."
     
     },
     {
@@ -76,10 +76,10 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     },
     {
            
-    title: 'Babble Ball',
+    title: 'Cactus Chew',
     image: 'img/dogtoy1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "This plush cactus is densely packed with fluffy stuffing and interactive elements that are perfect for playtime."
             
     },
     {
