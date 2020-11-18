@@ -182,11 +182,7 @@ h2 {
 	
 } 
 
-.rounded:hover {
-    opacity: 90%;
-    transform: translateY(-0.6%);
-    box-shadow: 0 4rem 12rem black;
-  }
+
 
 .container {
     text-align: center;
@@ -456,11 +452,21 @@ h4 {
 	width: 300px;
 	border-radius: 10%;
 }
+#cat:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
+}
 
 #reptile {
 	height: 300px;
 	width: 300px;
 	border-radius: 10%;
+}
+#reptile:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
 }
 
 #rabbit {
@@ -468,12 +474,22 @@ h4 {
 	width: 300px;
 	border-radius: 10%;
 }
+#rabbit:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
+}
 
 #dog {
 	height: 300px;
 	width: 300px;
 	border-radius: 10%;
 
+}
+#dog:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
 }
 
 #bird {
@@ -483,29 +499,46 @@ h4 {
 	margin-bottom: 5rem;
 
 }
+#bird:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
+}
+
 #fish {
 	height: 300px;
 	width: 300px;
 	border-radius: 10%;
 	margin-bottom: 5rem;
-
-
 }
+#fish:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
+}
+
 #rodent {
 	height: 300px;
 	width: 300px;
 	border-radius: 10%;
 	margin-bottom: 5rem;
-
-
 }
+#rodent:hover {
+	opacity: 90%;
+	transform: translateY(-0.6%);
+	box-shadow: 0 4rem 12rem black;
+}
+
 #horse {
 	height: 300px;
 	width: 300px;
 	border-radius: 10%;
 	margin-bottom: 5rem;
-
-
+}
+#horse:hover {
+		opacity: 90%;
+		transform: translateY(-0.6%);
+		box-shadow: 0 4rem 12rem black;
 }
 
 .box {
@@ -513,9 +546,7 @@ h4 {
 	color: whitesmoke;
 	max-width: 300px;
 	padding: 10px;
-	
 }
-
 
 
 
@@ -552,18 +583,14 @@ h4 {
 
 #myBtn {
 	position: relative;
-	bottom: 35px;
+	bottom: 36px;
 	float: right;
-	/* right: 18.5%;
-	left: 77.25%; */
-	width: 150px;
-	font-size: 12px;
+	width: 180px;
+	font-size: 14px;
 	border-color: rgba(85, 85, 85, 0.2);
 	background-color: rgb(100,100,100);
 	padding: 1px;
 	border-radius: 4px;
-	
-
 }
 
 #myBtn:hover {

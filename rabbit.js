@@ -18,14 +18,14 @@ var shop = [{
 title: 'Rabbit Adjustable Harness',
 image: 'img/rabbitacc1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "It is convenient to control the pet's activity when going out to make sure safety. Adjustable strap design, it can be adjusted according to size"
 
 },
 {
 title: 'Rabbit Hay Feeder',
 image: 'img/rabbitacc2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "Feeding is more convenient, the hollow in the middle and the large opening underneath, with enough open space, the rabbit is more convenient to eat."
 
 },
 {
@@ -33,7 +33,7 @@ description: "Features a realistic, 11″ fish with an improved built-in motion 
 title: 'Hay, Food, Water Feeder',
 image: 'img/rabbitacc3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "Keep a generous supply of food and hay in an organized bin style feeder. Made of a plastic/wood composite material and features to secure feeder in place."
     
 },
 {
@@ -41,21 +41,21 @@ description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat 
 title: 'Easy Roll Indoor Cage',
 image: 'img/rabbitacc4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "This cage features a removable tray for easy cleaning, and rolling casters make moving the cage simple. Dimensions: 29.0(L), 31.0(H) x 19.0(W)"
         
 },
 {
     title: 'Rabbit Adjustable Harness',
     image: 'img/rabbitacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "It is convenient to control the pet's activity when going out to make sure safety. Adjustable strap design, it can be adjusted according to size"
     
     },
     {
     title: 'Rabbit Hay Feeder',
     image: 'img/rabbitacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Feeding is more convenient, the hollow in the middle and the large opening underneath, with enough open space, the rabbit is more convenient to eat."
     
     },
     {
@@ -63,7 +63,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Leaps & Bounce Ball',
     image: 'img/rabbitacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Keep a generous supply of food and hay in an organized bin style feeder. Made of a plastic/wood composite material and features to secure feeder in place."
         
     },
     {
@@ -71,7 +71,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Easy Roll Indoor Cage',
     image: 'img/rabbitacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "This cage features a removable tray for easy cleaning, and rolling casters make moving the cage simple. Dimensions: 29.0(L), 31.0(H) x 19.0(W)"
             
     },
     {
@@ -79,7 +79,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Rabbit Adjustable Harness',
     image: 'img/rabbitacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "It is convenient to control the pet's activity when going out to make sure safety. Adjustable strap design, it can be adjusted according to size"
             
     },
     {
@@ -87,7 +87,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Rabbit Hay Feeder',
     image: 'img/rabbitacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Feeding is more convenient, the hollow in the middle and the large opening underneath, with enough open space, the rabbit is more convenient to eat."
             
     },
     {
@@ -95,7 +95,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Leaps & Bounce Ball',
     image: 'img/rabbitacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Keep a generous supply of food and hay in an organized bin style feeder. Made of a plastic/wood composite material and features to secure feeder in place."
                 
     },
     {
@@ -103,7 +103,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Easy Roll Indoor Cage',
     image: 'img/rabbitacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "This cage features a removable tray for easy cleaning, and rolling casters make moving the cage simple. Dimensions: 29.0(L), 31.0(H) x 19.0(W)"
                     
     }
     ]
@@ -142,14 +142,14 @@ var shop = [{
 title: 'Supreme Rabbit Food',
 image: 'img/rabbitfood1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "Feed your rabbit a wholesome diet that contains natural protein, fiber, oils and nutrients with Kaytee Supreme Fortified Daily Diet Rabbit Food."
 
 },
 {
 title: 'Sunburst Organic Food',
 image: 'img/rabbitfood2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "Formulated as a food and treat all-in-one, Sunburst Gourmet Blends are fortified with vitamins, minerals and amino acids as well as plant based DHA Omega."
 
 },
 {
@@ -157,7 +157,7 @@ description: "Features a realistic, 11″ fish with an improved built-in motion 
 title: 'Feed for Your Bunny',
 image: 'img/rabbitfood3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "These treats are designed to provide your bunny buddy with a variety that she might not be getting with her regular diet. 1-oz or 3-oz bag available."
     
 },
 {
@@ -165,21 +165,21 @@ description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat 
 title: 'Rabbit Diet Pellets',
 image: 'img/rabbitfood4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "This Rabbit food was developed to support optimal nutrition in rabbits. With the right nutrition, including high fiber this feed works for rabbits in any stage of life."
         
 },
 {
     title: 'Supreme Rabbit Food',
     image: 'img/rabbitfood1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "Feed your rabbit a wholesome diet that contains natural protein, fiber, oils and nutrients with Kaytee Supreme Fortified Daily Diet Rabbit Food."
     
     },
     {
     title: 'Sunburst Organic Food',
     image: 'img/rabbitfood2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Formulated as a food and treat all-in-one, Sunburst Gourmet Blends are fortified with vitamins, minerals and amino acids as well as plant based DHA Omega."
     
     },
     {
@@ -187,7 +187,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Feed for Your Bunny',
     image: 'img/rabbitfood3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "These treats are designed to provide your bunny buddy with a variety that she might not be getting with her regular diet. 1-oz or 3-oz bag available."
         
     },
     {
@@ -195,7 +195,7 @@ description: "This fishing rod comes with four interchangeable lures. They are l
     title: 'Rabbit Diet Pellets',
     image: 'img/rabbitfood4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "This Rabbit food was developed to support optimal nutrition in rabbits. With the right nutrition, including high fiber this feed works for rabbits in any stage of life."
             
     }
     ]

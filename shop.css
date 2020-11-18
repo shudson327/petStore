@@ -215,21 +215,16 @@ padding: 0.5rem;
 margin-top: 0.1rem;
 }
 
-
 #myBtn {
-position: relative;
-bottom: 35px;
-float: right;
-/* right: 18.5%;
-left: 77.25%; */
-width: 150px;
-font-size: 12px;
-border-color: rgba(85, 85, 85, 0.2);
-background-color: rgb(100,100,100);
-padding: 1px;
-border-radius: 4px;
-
-
+	position: relative;
+	bottom: 36px;
+	float: right;
+	width: 180px;
+	font-size: 14px;
+	border-color: rgba(85, 85, 85, 0.2);
+	background-color: rgb(100,100,100);
+	padding: 1px;
+	border-radius: 4px;
 }
 
 #myBtn:hover {

@@ -15,95 +15,95 @@ function filterRodent(){
    
 var shop = [{
      
-title: 'Babble Ball',
+title: 'Portable Hamster Haven',
 image: 'img/rodentacc1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "Provide plenty of activities for your hamster. It’s a spacious home that’s loaded with plenty of fun options to explore, hide and play."
 
 },
 {
-title: 'Kong Fetch Ball',
+title: 'Exercise Wheel',
 image: 'img/rodentacc2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "This whisper quiet workout wheel uses ball bearing technology to keep it super silent while your pet runs. The running surface is made of high-quality plastic."
 
 },
 {
      
-title: 'Piggy Chew Toy',
+title: 'Hamster Hideout',
 image: 'img/rodentacc3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "This cute, cozy hideout encourages his natural nesting instincts be providing him with a safe place to get away and nap in quiet seclusion."
     
 },
 {
      
-title: 'Tug-Of-War Rope',
+title: 'Mini Bathtub',
 image: 'img/rodentacc4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "This colorful accessory gives your pet a convenient spot to bathe right in their own cage, and with four sturdy feet, the tub is difficult to tip over."
         
 },
 {
-    title: 'Babble Ball',
+    title: 'Portable Hamster Haven',
     image: 'img/rodentacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "Provide plenty of activities for your hamster. It’s a spacious home that’s loaded with plenty of fun options to explore, hide and play."
     
     },
     {
-    title: 'Kong Fetch Ball',
+    title: 'Exercise Wheel',
     image: 'img/rodentacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "This whisper quiet workout wheel uses ball bearing technology to keep it super silent while your pet runs. The running surface is made of high-quality plastic."
     
     },
     {
          
-    title: 'Piggy Chew Toy',
+    title: 'Hamster Hideout',
     image: 'img/rodentacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "This cute, cozy hideout encourages his natural nesting instincts be providing him with a safe place to get away and nap in quiet seclusion."
         
     },
     {
          
-    title: 'Tug-Of-War Rope',
+    title: 'Mini Bathtub',
     image: 'img/rodentacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "This colorful accessory gives your pet a convenient spot to bathe right in their own cage, and with four sturdy feet, the tub is difficult to tip over."
             
     },
     {
            
-    title: 'Babble Ball',
+    title: 'Portable Hamster Haven',
     image: 'img/rodentacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "Provide plenty of activities for your hamster. It’s a spacious home that’s loaded with plenty of fun options to explore, hide and play."
             
     },
     {
 
-    title: 'Kong Fetch Ball',
+    title: 'Exercise Wheel',
     image: 'img/rodentacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "This whisper quiet workout wheel uses ball bearing technology to keep it super silent while your pet runs. The running surface is made of high-quality plastic."
             
     },
     {
                  
-    title: 'Piggy Chew Toy',
+    title: 'Hamster Hideout',
     image: 'img/rodentacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "This cute, cozy hideout encourages his natural nesting instincts be providing him with a safe place to get away and nap in quiet seclusion."
                 
     },
     {
                  
-    title: 'Tug-Of-War Rope',
+    title: 'Mini Bathtub',
     image: 'img/rodentacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "This colorful accessory gives your pet a convenient spot to bathe right in their own cage, and with four sturdy feet, the tub is difficult to tip over."
                     
     }
     ]
@@ -139,63 +139,63 @@ function filterRodentTwo(){
    
 var shop = [{
      
-title: 'Milk Bone Treats',
+title: 'Sweet Harvest Rodent Food',
 image: 'img/rodentfood1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "A complete and balanced diet. Made with only high quality, protein and fiber rich ingredients, vitamins and minerals 100% consumable mix."
 
 },
 {
-title: 'Beneful Original Food',
+title: 'Science Selective Mouse & Rat Food',
 image: 'img/rodentfood2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "This tasty formula is rich in fruits to provide the healthy support of antioxidants and vitamins to encourage a healthy digestive system."
 
 },
 {
      
-title: 'Purina One Chicken & Rice',
+title: 'Kaytee Supreme Daily Diet',
 image: 'img/rodentfood3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "Feed your small pet a wholesome diet that contains natural protein, fiber, oils and nutrients with Kaytee Supreme Fortified Daily Diet Rat & Mouse Food."
     
 },
 {
      
-title: 'Frosty Paw Treats',
+title: 'Nature Gerbil Food',
 image: 'img/rodentfood4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "Gerbil food rich in grains, fruits and vegetables to offer essential vitamins for animal protein and to offer energy for an active small pet lifestyle."
         
 },
 {
-    title: 'Milk Bone Treats',
+    title: 'Sweet Harvest Rodent Food',
     image: 'img/rodentfood1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "A complete and balanced diet. Made with only high quality, protein and fiber rich ingredients, vitamins and minerals 100% consumable mix."
     
     },
     {
-    title: 'Beneful Original Food',
+    title: 'Science Selective Mouse & Rat Food',
     image: 'img/rodentfood2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "This tasty formula is rich in fruits to provide the healthy support of antioxidants and vitamins to encourage a healthy digestive system."
     
     },
     {
          
-    title: 'Purina One Chicken & Rice',
+    title: 'Kaytee Supreme Daily Diet',
     image: 'img/rodentfood3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Feed your small pet a wholesome diet that contains natural protein, fiber, oils and nutrients with Kaytee Supreme Fortified Daily Diet Rat & Mouse Food."
         
     },
     {
          
-    title: 'Frosty Paw Treats',
+    title: 'Nature Gerbil Food',
     image: 'img/rodentfood4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "Gerbil food rich in grains, fruits and vegetables to offer essential vitamins for animal protein and to offer energy for an active small pet lifestyle."
             
     }
     ]

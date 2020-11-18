@@ -33,7 +33,7 @@ description: "Fake ancient castle ornaments are suitable for house aquarium, the
 title: 'Aquatic Tank',
 image: 'img/fishacc3.jpg',
 price: '50',
-description: "High protein sinking micro pellets for ALL Types of Aquatic Frogs and Tadpoles. Ships with 1-3 business days! 2 ounces per bottle."
+description: "This aquarium has a capacity of 10 gallons, and comes with a variety of components including a glass tank, LED Lighting, heater, power filter and more."
     
 },
 {
@@ -41,7 +41,7 @@ description: "High protein sinking micro pellets for ALL Types of Aquatic Frogs 
 title: 'Aquarium Coral Decor',
 image: 'img/fishacc4.jpg',
 price: '500',
-description: "Aquatic Turtle treats are a fun way to entice your turtles and other creatures including newts and aquatic frogs to the surface and watch them feed."
+description: "Aquatop’s Vibrant Reef Decor makes the perfect addition to your aquarium by helping to create a natural look and feel, without affecting your water parameters."
         
 },
 {
@@ -55,7 +55,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Artificial Miniature Castle',
     image: 'img/fishacc2.jpg',
     price: '7,000',
-    description: "This veterinarian formulated meal is specifically made for aquatic turtles. It has a soft, moist texture to help provide your sidekick with healthy hydration."
+    description: "Fake ancient castle ornaments are suitable for house aquarium, they can create a lifelike world for your aquarium. 100% non-toxin."
     
     },
     {
@@ -63,7 +63,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Aquatic Tank',
     image: 'img/fishacc3.jpg',
     price: '50',
-    description: "High protein sinking micro pellets for ALL Types of Aquatic Frogs and Tadpoles. Ships with 1-3 business days! 2 ounces per bottle."
+    description: "This aquarium has a capacity of 10 gallons, and comes with a variety of components including a glass tank, LED Lighting, heater, power filter and more."
         
     },
     {
@@ -71,7 +71,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Aquarium Coral Decor',
     image: 'img/fishacc4.jpg',
     price: '500',
-    description: "Aquatic Turtle treats are a fun way to entice your turtles and other creatures including newts and aquatic frogs to the surface and watch them feed."
+    description: "Aquatop’s Vibrant Reef Decor makes the perfect addition to your aquarium by helping to create a natural look and feel, without affecting your water parameters."
             
     },
     {
@@ -87,7 +87,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Artificial Miniature Castle',
     image: 'img/fishacc2.jpg',
     price: '7,000',
-    description: "This veterinarian formulated meal is specifically made for aquatic turtles. It has a soft, moist texture to help provide your sidekick with healthy hydration."
+    description: "Fake ancient castle ornaments are suitable for house aquarium, they can create a lifelike world for your aquarium. 100% non-toxin."
             
     },
     {
@@ -95,7 +95,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Aquatic Tank',
     image: 'img/fishacc3.jpg',
     price: '50',
-    description: "High protein sinking micro pellets for ALL Types of Aquatic Frogs and Tadpoles. Ships with 1-3 business days! 2 ounces per bottle."
+    description: "This aquarium has a capacity of 10 gallons, and comes with a variety of components including a glass tank, LED Lighting, heater, power filter and more."
                 
     },
     {
@@ -103,7 +103,7 @@ description: "Aquatic Turtle treats are a fun way to entice your turtles and oth
     title: 'Aquarium Coral Decor',
     image: 'img/fishacc4.jpg',
     price: '500',
-    description: "Aquatic Turtle treats are a fun way to entice your turtles and other creatures including newts and aquatic frogs to the surface and watch them feed."
+    description: "Aquatop’s Vibrant Reef Decor makes the perfect addition to your aquarium by helping to create a natural look and feel, without affecting your water parameters."
                     
     }
     ]

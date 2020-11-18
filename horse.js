@@ -15,95 +15,95 @@ function filterHorse(){
    
 var shop = [{
      
-title: 'Babble Ball',
+title: 'High Horse Saddle',
 image: 'img/horseacc1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "An adjustable position rigging gives you the freedom to choose your rigging style and the tall cantle will provide security under a variety of trail conditions."
 
 },
 {
-title: 'Kong Fetch Ball',
+title: 'Classic Stable Blanket',
 image: 'img/horseacc2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "Protect your horse from chilly weather with the SmartPak Classic Stable Blanket. Made from durable polyester your horse will stay toasty warm all winter long."
 
 },
 {
      
-title: 'Piggy Chew Toy',
+title: 'Horse Grooming Kit',
 image: 'img/horseacc3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "Keep your favorite foal looking and feeling great with this Grooming Kit. This high-quality set features a great selection of grooming essentials."
     
 },
 {
      
-title: 'Tug-Of-War Rope',
+title: 'Herbal Fly Repellant Horse Spray',
 image: 'img/horseacc4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "Your buddy can enjoy horseplay free from the bother of bugs and sun with Herbal Horse Spray Concentrate. Made with gentle blend of ingredients."
         
 },
 {
-    title: 'Babble Ball',
+    title: 'High Horse Saddle',
     image: 'img/horseacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "An adjustable position rigging gives you the freedom to choose your rigging style and the tall cantle will provide security under a variety of trail conditions."
     
     },
     {
-    title: 'Kong Fetch Ball',
+    title: 'Classic Stable Blanket',
     image: 'img/horseacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Protect your horse from chilly weather with the SmartPak Classic Stable Blanket. Made from durable polyester your horse will stay toasty warm all winter long."
     
     },
     {
          
-    title: 'Piggy Chew Toy',
+    title: 'Horse Grooming Kit',
     image: 'img/horseacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Keep your favorite foal looking and feeling great with this Grooming Kit. This high-quality set features a great selection of grooming essentials."
         
     },
     {
          
-    title: 'Tug-Of-War Rope',
+    title: 'Herbal Fly Repellant Horse Spray',
     image: 'img/horseacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "Your buddy can enjoy horseplay free from the bother of bugs and sun with Herbal Horse Spray Concentrate. Made with gentle blend of ingredients."
             
     },
     {
            
-    title: 'Babble Ball',
+    title: 'High Horse Saddle',
     image: 'img/horseacc1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "An adjustable position rigging gives you the freedom to choose your rigging style and the tall cantle will provide security under a variety of trail conditions."
             
     },
     {
 
-    title: 'Kong Fetch Ball',
+    title: 'Classic Stable Blanket',
     image: 'img/horseacc2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "Protect your horse from chilly weather with the SmartPak Classic Stable Blanket. Made from durable polyester your horse will stay toasty warm all winter long."
             
     },
     {
                  
-    title: 'Piggy Chew Toy',
+    title: 'Horse Grooming Kit',
     image: 'img/horseacc3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Keep your favorite foal looking and feeling great with this Grooming Kit. This high-quality set features a great selection of grooming essentials."
                 
     },
     {
                  
-    title: 'Tug-Of-War Rope',
+    title: 'Herbal Fly Repellant Horse Spray',
     image: 'img/horseacc4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "Your buddy can enjoy horseplay free from the bother of bugs and sun with Herbal Horse Spray Concentrate. Made with gentle blend of ingredients."
                     
     }
     ]
@@ -139,63 +139,63 @@ function filterHorseTwo(){
    
 var shop = [{
      
-title: 'Milk Bone Treats',
+title: 'Nutrition Senior Balancer',
 image: 'img/horsefood1.jpg',
 price: '200',
-description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+description: "Support your mature hoofed friend with Buckeye Nutrition Senior Balancer Horse Food. It provides daily joint support with MSM, vitamins and minerals."
 
 },
 {
-title: 'Beneful Original Food',
+title: 'Producers Pride Feed',
 image: 'img/horsefood2.jpg',
 price: '7,000',
-description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+description: "This formula is specifically designed to provide the protein, vitamins and minerals needed to keep adult horses healthy and energetic."
 
 },
 {
      
-title: 'Purina One Chicken & Rice',
+title: 'Horse Wellness Treats',
 image: 'img/horsefood3.jpg',
 price: '50',
-description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+description: "Our completely wholesome All-Natural Full Spectrum Hemp Horse Wellness Treats have been baked to soft, chewy perfection."
     
 },
 {
      
-title: 'Frosty Paw Treats',
+title: 'Super Horse Feed',
 image: 'img/horsefood4.jpg',
 price: '500',
-description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+description: "Our feeding system allows you to choose the precise feed type and formula to meet your horse’s specific life stage and energy level requirements."
         
 },
 {
-    title: 'Milk Bone Treats',
+    title: 'Nutrition Senior Balancer',
     image: 'img/horsefood1.jpg',
     price: '200',
-    description: "Just like its circular design, there will be no end to the fun your kitty will have with the Turbo Scratcher Cat Toy."
+    description: "Support your mature hoofed friend with Buckeye Nutrition Senior Balancer Horse Food. It provides daily joint support with MSM, vitamins and minerals."
     
     },
     {
-    title: 'Beneful Original Food',
+    title: 'Producers Pride Feed',
     image: 'img/horsefood2.jpg',
     price: '7,000',
-    description: "Features a realistic, 11″ fish with an improved built-in motion sensor-based motor that wiggles the fish."
+    description: "This formula is specifically designed to provide the protein, vitamins and minerals needed to keep adult horses healthy and energetic."
     
     },
     {
          
-    title: 'Purina One Chicken & Rice',
+    title: 'Horse Wellness Treats',
     image: 'img/horsefood3.jpg',
     price: '50',
-    description: "Ships next business day! Leaps & Bounds Lattice Ball and Bell Cat Toys, Pack of 4 balls."
+    description: "Our completely wholesome All-Natural Full Spectrum Hemp Horse Wellness Treats have been baked to soft, chewy perfection."
         
     },
     {
          
-    title: 'Frosty Paw Treats',
+    title: 'Super Horse Feed',
     image: 'img/horsefood4.jpg',
     price: '500',
-    description: "This fishing rod comes with four interchangeable lures. They are light and airy so they will get your cat jumping."
+    description: "Our feeding system allows you to choose the precise feed type and formula to meet your horse’s specific life stage and energy level requirements."
             
     }
     ]
