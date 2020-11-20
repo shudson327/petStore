@@ -4,6 +4,7 @@ body{
     /* font-family: 'Times New Roman', Times, serif; */
     font-family: Roboto, "Franklin Gothic Medium", Tahoma, sans-serif;
     background-color: lightgrey;
+    background-position: fixed;
     box-sizing: border-box;
   
 }
@@ -27,11 +28,12 @@ html {
 
 .navbar{
     background-color: #5A1E82;
-    max-height: 100px;
-	position: relative;
-	z-index: 0;
+    max-height: 120px;
+	  position: relative;
+	/* z-index: 0; */
    
 }
+
 
 /* Image for logo */
 #logo {
@@ -39,9 +41,11 @@ html {
 	margin-bottom: 10px;
   border-radius: 0%;
   margin-bottom: 2rem;
-  
+  position: relative;
+
 } 
 
+ 
 /* text on logo */
 h1 {
     font-size: 26pt;
@@ -50,6 +54,7 @@ h1 {
     font-family: "Franklin Gothic Medium", Tahoma, sans-serif;
     line-height: 50pt;
     text-shadow: 3px 3px 0px black;
+    position: sticky;
 }
 
 
